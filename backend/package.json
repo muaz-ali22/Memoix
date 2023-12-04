@@ -1,0 +1,15 @@
+{
+  "name": "memoix-backend",
+  "version": "1.0.0",
+  "description": "Memoix is a notebook app where different users can manage their motes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2"
+  }
+}
